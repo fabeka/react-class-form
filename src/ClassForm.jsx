@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 
-export class ClassForm extends Component {
+class ClassForm extends Component {
     constructor(props) {
         super(props);
         this.state = {
